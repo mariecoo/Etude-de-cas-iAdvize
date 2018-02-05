@@ -16,9 +16,9 @@ Nous avons pris le parti ici de se focaliser sur des caractéristiques environne
 #    I - IMPORT DES DONNEES    
 ################################
 
-data = pd.read_csv('C:\\Users\\mcoug\\Dropbox\\Etude de cas iAdvize\\Data\\WDI\\WDIData.csv', sep=',')
-country = pd.read_csv('C:\\Users\\mcoug\\Dropbox\\Etude de cas iAdvize\\Data\\WDI\\WDICountry.csv', sep=',')
-series_1= pd.read_csv('C:\\Users\\mcoug\\Dropbox\\Etude de cas iAdvize\\Data\\WDI\\WDISeries.csv', sep=',')
+data = pd.read_csv('C:\\etude_cas_mcougul\\data\\WDIData.csv', sep=',')
+country = pd.read_csv('C:\\etude_cas_mcougul\\data\\WDICountry.csv', sep=',')
+series_1= pd.read_csv('C:\\etude_cas_mcougul\\data\\WDISeries.csv', sep=',')
 
 
 ###################################
