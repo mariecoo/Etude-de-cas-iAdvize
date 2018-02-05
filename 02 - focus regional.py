@@ -16,8 +16,8 @@ Avoir une vision globale des émissions de CO2 par région
 #    I - IMPORT DES DONNEES    
 ################################
 
-data = pd.read_csv('C:\\Users\\mcoug\\Dropbox\\Etude de cas iAdvize\\Data\\WDI\\WDIData.csv', sep=',')
-country = pd.read_csv('C:\\Users\\mcoug\\Dropbox\\Etude de cas iAdvize\\Data\\WDI\\WDICountry.csv', sep=',')
+data = pd.read_csv('C:\\etude_cas_mcougul\\data\\WDIData.csv', sep=',')
+country = pd.read_csv('C:\\etude_cas_mcougul\\data\\WDICountry.csv', sep=',')
 
 
 ######################################################
