@@ -13,12 +13,10 @@ Avoir une vision globale des émissions de CO2 au niveau monde
 #    I - IMPORT DES DONNEES    #
 ################################
 
-data = pd.read_csv('C:\\Users\\mcoug\\Dropbox\\Etude de cas iAdvize\\Data\\WDI\\WDIData.csv', sep=',')
-country_series = pd.read_csv('C:\\Users\\mcoug\\Dropbox\\Etude de cas iAdvize\\Data\\WDI\\WDICountry-Series.csv', sep=',')
-country = pd.read_csv('C:\\Users\\mcoug\\Dropbox\\Etude de cas iAdvize\\Data\\WDI\\WDICountry.csv', sep=',')
-footnote = pd.read_csv('C:\\Users\\mcoug\\Dropbox\\Etude de cas iAdvize\\Data\\WDI\\WDIFootNote.csv', sep=',')
-series_1= pd.read_csv('C:\\Users\\mcoug\\Dropbox\\Etude de cas iAdvize\\Data\\WDI\\WDISeries.csv', sep=',')
-series_time = pd.read_csv('C:\\Users\\mcoug\\Dropbox\\Etude de cas iAdvize\\Data\\WDI\\WDISeries-Time.csv', sep=',')
+data = pd.read_csv('C:\\etude_cas_mcougul\\data\\WDIData.csv', sep=',')
+country = pd.read_csv('C:\\etude_cas_mcougul\\data\\WDICountry.csv', sep=',')
+series_1= pd.read_csv('C:\\etude_cas_mcougul\\data\\WDISeries.csv', sep=',')
+
 
 #####################################################
 #    II - ANALYSE PRELIMINAIRE AU NIVEAU MONDIAL    #
