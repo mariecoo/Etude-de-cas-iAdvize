@@ -4,7 +4,7 @@
 
 # Lien pour accéder aux données
 
-Les fichiers étant trop volumineux, je vous donne l'accès aux csv via dropbox.
+Les fichiers étant trop volumineux pour être mis sur GitHub, je vous donne l'accès aux csv via dropbox.
 
 Je vous propose de télécharger les fichiers directement sur votre PC en créant un dossier avec le chemin suivant :
 C:\\etude_cas_mcougul\\data
